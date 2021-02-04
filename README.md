@@ -1,6 +1,6 @@
 # <img src="docs/icons/icon-singer-sk-small.png" alt="Singer logo" width="22" align="bottom"> &nbsp; Singer
 
-## High-performance, reliable and extensible logging agent
+## High-performance, reliable and extensible logging agent..
 Singer is a high performance logging agent for uploading logs to Kafka. 
 It can also be extended to support writing to other message transporters or storage systems. 
 
