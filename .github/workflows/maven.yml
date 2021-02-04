@@ -1,6 +1,6 @@
 name: Singer Build-3
 
-on: [push]
+on: [pull_request]
 
 jobs:
   build:
