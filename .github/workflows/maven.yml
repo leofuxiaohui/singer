@@ -1,4 +1,4 @@
-name: Singer Build
+name: Singer Build-2
 
 on: [pull_request]
 
